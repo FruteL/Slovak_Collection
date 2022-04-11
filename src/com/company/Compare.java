@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.*;
 
-public class Main {
+public class Compare {
 
     public static void main(String[] args) {
         List<Integer> array = new ArrayList<>();
